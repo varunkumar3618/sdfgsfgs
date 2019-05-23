@@ -1,0 +1,13 @@
+{
+	"arch": {
+		"trunk": {
+			"trunk_type": "conv",
+			"conv_out_cs": [64, 64, 64, 64],
+			"conv_filter_sizes": [4, 3, 3, 3],
+			"conv_paddings": [0, 0, 0, 0],
+			"conv_strides": [1, 1, 1, 1],
+			"fc_hidden_sizes": [50],
+			"reduction": "mean"
+		}
+	}
+}

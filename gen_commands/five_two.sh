@@ -1,0 +1,1 @@
+python3 env_gen/generate_warehouse_v1_mazes.py --dir environments/five_two_100_20 --train_bucket_to_boxes B b c d e f --test_bucket_to_boxes B g h --num_train 100 --num_test 20 --seed ${1:-1}

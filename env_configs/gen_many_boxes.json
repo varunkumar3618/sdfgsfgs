@@ -1,0 +1,20 @@
+{
+	"env": {
+		"train": {
+            "artfile_folder": "environments/many10/train",
+			"render": false,
+			"boxes": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k"],
+			"buckets": ["B"],
+			"bucket_to_boxes": [["B", ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k"]]],
+            "character_map": []
+		},
+		"test": {
+            "artfile_folder": "environments/many10/test",
+			"render": false,
+			"boxes": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k"],
+			"buckets": ["B"],
+			"bucket_to_boxes": [["B", ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k"]]],
+            "character_map": []
+		}
+	}
+}

@@ -1,0 +1,176 @@
+{
+    "edges": [
+        {
+            "feature_idx": 2,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "c",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "d",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "e",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "f",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "g",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "h",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 2,
+            "dst": "+",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 1,
+            "dst": "b",
+            "feature_len": 3,
+            "src": "A"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "b"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "c"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "d"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "e"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "f"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "g"
+        },
+        {
+            "feature_idx": 0,
+            "dst": "B",
+            "feature_len": 3,
+            "src": "h"
+        }
+    ],
+    "kg_entities": [
+        " ",
+        "+",
+        "A",
+        "B",
+        "X",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h"
+    ],
+    "nodes": [
+        {
+            "feature_idx": 0,
+            "node": " ",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 2,
+            "node": "A",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 5,
+            "node": "b",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 6,
+            "node": "c",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 7,
+            "node": "d",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 8,
+            "node": "e",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 9,
+            "node": "f",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 10,
+            "node": "g",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 11,
+            "node": "h",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 1,
+            "node": "+",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 3,
+            "node": "B",
+            "feature_len": 12
+        },
+        {
+            "feature_idx": 4,
+            "node": "X",
+            "feature_len": 12
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+      "env": {
+            "train": {
+                  "artfile_folder": "environments/nmult_three_two_100_20/train",
+                  "render": false,
+                  "boxes": ["b", "c", "d", "e", "f"],
+                  "buckets": ["B", "C", "D", "E", "F"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]], ["D", ["d"]], ["E", ["e"]], ["F", ["f"]]],
+                  "character_map": []
+            },
+            "test": {
+                  "artfile_folder": "environments/nmult_two_one_100_20/test",
+                  "render": false,
+                  "boxes": ["b", "c", "d", "e", "f"],
+                  "buckets": ["B", "C", "D", "E", "F"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]], ["D", ["d"]], ["E", ["e"]], ["F", ["f"]]],
+                  "character_map": []
+            }
+      }
+}

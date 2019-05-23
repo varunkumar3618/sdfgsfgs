@@ -1,0 +1,20 @@
+{
+      "env": {
+            "train": {
+                  "artfile_folder": "environments/twobuckets_test_small/train",
+                  "render": false,
+                  "boxes": ["b", "c"],
+                  "buckets": ["B", "C"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]]],
+                  "character_map": []
+            },
+            "test": {
+                  "artfile_folder": "environments/twobuckets_test_small/test",
+                  "render": false,
+                  "boxes": ["b", "c"],
+                  "buckets": ["B", "C"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]]],
+                  "character_map": []
+            }
+      }
+}

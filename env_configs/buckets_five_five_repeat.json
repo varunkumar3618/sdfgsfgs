@@ -1,0 +1,20 @@
+{
+	"env": {
+		"train": {
+                  "artfile_folder": "environments/buckets_five_five_repeat_100_20/train",
+			"render": false,
+                  "boxes": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "1", "2", "3", "4", "5", "6", "7", "8"],
+                  "buckets": ["B", "C", "D", "E", "F", "G", "H", "I", "J", "K"],
+                  "bucket_to_boxes": [["B", ["b", "c", "d"]], ["C", ["e", "f", "g"]], ["D", ["h", "i", "j"]], ["E", ["k", "l", "m"]], ["F", ["n", "o", "p"]], ["G", ["q", "r", "s"]], ["H", ["t", "u", "v"]], ["I", ["w", "1", "2"]], ["J", ["3", "4", "5"]], ["K", ["6", "7", "8"]]],
+                  "character_map": []
+		},
+		"test": {
+                  "artfile_folder": "environments/buckets_five_five_repeat_100_20/test",
+			"render": false,
+                  "boxes": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "1", "2", "3", "4", "5", "6", "7", "8"],
+                  "buckets": ["B", "C", "D", "E", "F", "G", "H", "I", "J", "K"],
+                  "bucket_to_boxes": [["B", ["b", "c", "d"]], ["C", ["e", "f", "g"]], ["D", ["h", "i", "j"]], ["E", ["k", "l", "m"]], ["F", ["n", "o", "p"]], ["G", ["q", "r", "s"]], ["H", ["t", "u", "v"]], ["I", ["w", "1", "2"]], ["J", ["3", "4", "5"]], ["K", ["6", "7", "8"]]],
+                  "character_map": []
+		}
+	}
+}

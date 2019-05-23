@@ -1,0 +1,20 @@
+{
+	"env": {
+		"train": {
+                  "artfile_folder": "environments/simple/train",
+			"render": false,
+                  "boxes": ["b"],
+                  "buckets": ["B"],
+                  "bucket_to_boxes": [["B", ["b"]]],
+                  "character_map": []
+		},
+		"test": {
+                  "artfile_folder": "environments/simple/train",
+			"render": false,
+                  "boxes": ["b"],
+                  "buckets": ["B"],
+                  "bucket_to_boxes": [["B", ["b"]]],
+                  "character_map": []
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"env": {
+		"train": {
+                  "artfile_folder": "environments/buckets_two_one_100_20/train",
+			"render": false,
+                  "boxes": ["b", "c", "d"],
+                  "buckets": ["B", "C", "D"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]], ["D", ["d"]]],
+                  "character_map": []
+		},
+		"test": {
+                  "artfile_folder": "environments/buckets_two_one_100_20/test",
+			"render": false,
+                  "boxes": ["b", "c", "d"],
+                  "buckets": ["B", "C", "D"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]], ["D", ["d"]]],
+                  "character_map": []
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"env": {
+		"train": {
+                  "artfile_folder": "environments/one_one_100_20/train",
+			"render": false,
+                  "boxes": ["b", "c"],
+                  "buckets": ["B"],
+                  "bucket_to_boxes": [["B", ["b", "c"]]],
+                  "character_map": [["B", "b"]]
+		},
+		"test": {
+                  "artfile_folder": "environments/one_one_100_20/test",
+			"render": false,
+                  "boxes": ["b", "c"],
+                  "buckets": ["B"],
+                  "bucket_to_boxes": [["B", ["b", "c"]]],
+                  "character_map": [["B", "b"]]
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+      "env": {
+            "train": {
+                  "artfile_folder": "environments/multiple_five_five_100_20/train",
+                  "render": false,
+                  "boxes": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k"],
+                  "buckets": ["B", "C", "D", "E", "F", "G", "H", "I", "J", "K"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]], ["D", ["d"]], ["E", ["e"]], ["F", ["f"]], ["G", ["g"]], ["H", ["h"]], ["I", ["i"]], ["J", ["j"]], ["K", ["k"]]],
+                  "character_map": []
+            },
+            "test": {
+                  "artfile_folder": "environments/multiple_five_five_100_20/test",
+                  "render": false,
+                  "boxes": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k"],
+                  "buckets": ["B", "C", "D", "E", "F", "G", "H", "I", "J", "K"],
+                  "bucket_to_boxes": [["B", ["b"]], ["C", ["c"]], ["D", ["d"]], ["E", ["e"]], ["F", ["f"]], ["G", ["g"]], ["H", ["h"]], ["I", ["i"]], ["J", ["j"]], ["K", ["k"]]],
+                  "character_map": []
+            }
+      }
+}
