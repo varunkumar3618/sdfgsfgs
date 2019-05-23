@@ -10,7 +10,7 @@ Run the scripts in the `gen_commands` folder to generate the environment maps.
 
 ## Reproducing results in the paper
 
-Experiments in Figure 2:  agent.opt.kwargs.lr
+Experiments in Figure 2:
 
 To run the Graph-DQN algorithm on the different warhouse environments, run the following commands for each environment:
 
